@@ -1,31 +1,30 @@
 {
-  "name": "frantzyy-starwars-names",
-  "version": "1.2.0",
-  "description": "egghead tutorial for creating a npm module",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "mocha src/index.test.js -w"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/frantzyy/starwars-names.git"
-  },
-  "keywords": [
-    "learning",
-    "egghead",
-    "frantzyy"
-  ],
-  "author": "Chris Frantz <christopher.j.frantz@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/frantzyy/starwars-names/issues"
-  },
-  "homepage": "https://github.com/frantzyy/starwars-names#readme",
-  "dependencies": {
-    "unique-random-array": "1.0.0"
-  },
-  "devDependencies": {
-    "chai": "3.4.1",
-    "mocha": "2.3.4"
-  }
+    "name": "frantz-starwars-names",
+    "version": "1.2.0",
+    "description": "egghead tutorial for creating a npm module",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "mocha src/index.test.js -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/frantzyy/starwars-names.git"
+    },
+    "keywords": [
+        "learning",
+        "egghead"
+    ],
+    "author": "Chris Frantz <christopher.j.frantz@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/frantzyy/starwars-names/issues"
+    },
+    "homepage": "https://github.com/frantzyy/starwars-names#readme",
+    "dependencies": {
+        "unique-random-array": "1.0.0"
+    },
+    "devDependencies": {
+        "chai": "3.4.1",
+        "mocha": "2.3.4"
+    }
 }
