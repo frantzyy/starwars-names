@@ -6,7 +6,7 @@ https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-releasin
 
 ## install
 
-`npm install frantz-starwars-names`
+`npm install frantzyy-starwars-names`
 
 
 ## test
